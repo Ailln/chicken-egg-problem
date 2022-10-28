@@ -1,2 +1,3 @@
-# chicken-egg-problem
-["🐔", "🥚"] or ["🥚", "🐔"]
+# Chicken Egg Problem
+
+Which came first, the chicken or the egg?
